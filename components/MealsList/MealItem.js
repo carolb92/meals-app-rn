@@ -7,7 +7,7 @@ import {
 	Platform,
 } from "react-native";
 import { useNavigation } from "@react-navigation/native";
-import MealItemDetails from "./MealItemDetails";
+import MealItemDetails from "../MealItemDetails";
 
 export default function MealItem({
 	title,
